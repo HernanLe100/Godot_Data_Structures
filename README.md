@@ -2,7 +2,7 @@
 A collection of data structure scripts that make up kNN search and graph algorithms in GDScript
 - written in Godot 4.4
 
-Fun fact: this code is adapted from personal programs written in Java!
+**Fun fact:** This code is adapted from personal programs written in Java!
 
 # Data Structures
 ## KD Tree
@@ -20,7 +20,7 @@ WeightedGraph.gd
 
 ## Minimum Spanning Tree
 MinSpanTree.gd
-- given an array of Vector2 points, this script will return a spanning tree (as a WeightedGraph) with the shortest edge sum
+- Given an array of Vector2 points, this script will return a spanning tree (as a WeightedGraph) with the shortest edge sum.
 - used WeightedGraph.gd
 
 ## Edge
