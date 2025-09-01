@@ -47,7 +47,7 @@ IndexedMinHeap.gd
 - binary heap data structure with the smallest **key** (index) on top
 - has a function to change keys, which will update the heap order if needed
 
-# Algorithms that can be implemented
+# Algorithms
 ## Kruskal
 - implemented in WeightedGraph.gd **min_span_tree()**
 - uses a weighted graph and union-find
